@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "HESONOO",
+  "base_artist": "XG",
+  "createdAt": "2026-02-17T07:19:41.075893Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HESONOO",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/01_HESONOO_XG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HESONOO",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/02_HESONOO_XG.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HESONOO + X-GENE x XDM",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/03_HESONOO_+_X-GENE_x_XDM_XG.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HESONOO + X‐GENE x XDM",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/04_HESONOO_+_X‐GENE_x_XDM_XG.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "X-GENE (HESONOO) [XG 1st WORLD TOUR “The first HOWL” Live]",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/05_X-GENE_(HESONOO)_[XG_1st_WORLD_TOUR_“The_first_HOWL”_Live]_XG.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HESONOO",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_HESONOO_XG.txt"
+    }
+  ]
+}
